@@ -24,9 +24,6 @@ An Unreal Engine autobattler focused on modular gameplay systems, items, effects
 
 A central concept is combining items and equipment originating from different historical eras to create synergies across time periods.
 
-Playable prototype:
-[https://drive.google.com/file/d/1gyjRYWX9xtsYQ74-36J4RKSA3QU6waA-/view?usp=sharing](https://drive.google.com/file/d/1gyjRYWX9xtsYQ74-36J4RKSA3QU6waA-/view?usp=sharing)
-
 ### Dawn of Humanity
 
 A resource-management and civilization-building game developed in Unreal Engine.
