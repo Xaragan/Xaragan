@@ -21,16 +21,14 @@ I have more than 10 years of Unreal Engine experience across professional and pe
 ### Echoes of Humanity
 
 An Unreal Engine autobattler focused on modular gameplay systems, items, effects, statuses, abilities and combat interactions.
-
 A central concept is combining items and equipment originating from different historical eras to create synergies across time periods.
+**Playable demo available on request.**
 
 ### Dawn of Humanity
 
 A resource-management and civilization-building game developed in Unreal Engine.
-
 The player develops a civilization through different historical eras, manages resources and population needs, builds production and logistics systems, expands through the world and unlocks new technologies over time.
-
-A playable demo can be provided on request.
+**Playable demo available on request.**
 
 ## Development Workflow
 
